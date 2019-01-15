@@ -2,6 +2,6 @@
 Two Player Tic Tac Toe
 /** 
  * [TicTocToe.java]
- * @author: Ali Meshkat 
+ * @author: Aziz Safri, Ali Meshkat 
  * @date: Feb 21, 2017
  */
